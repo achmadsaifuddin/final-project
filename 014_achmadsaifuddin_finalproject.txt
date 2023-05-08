@@ -1,0 +1,2 @@
+Link netlify    : https://achmad-finalproject.netlify.app/
+Link github     : https://github.com/achmadsaifuddin/final-project
